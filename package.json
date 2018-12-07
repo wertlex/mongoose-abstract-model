@@ -1,0 +1,21 @@
+{
+  "name": "mongoose-abstract-model",
+  "version": "1.0.0",
+  "description": "Dummy classes to build more typescript-friendly models with mongoose",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {},
+  "keywords": [
+    "mongoose",
+    "typescript"
+  ],
+  "author": "Alex V. Povar",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "@types/mongoose": "^5.3.3"
+  }
+}
